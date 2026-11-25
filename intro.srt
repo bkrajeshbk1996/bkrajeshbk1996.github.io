@@ -1,0 +1,224 @@
+1
+00:00:00,000 --> 00:00:03,280
+Hi all, welcome to my introductory video.
+
+2
+00:00:03,360 --> 00:00:05,280
+I am Rajesh and I have nine plus years of
+
+3
+00:00:05,280 --> 00:00:07,960
+experience in software engineering as of
+
+4
+00:00:07,960 --> 00:00:09,120
+July 2026.
+
+5
+00:00:09,400 --> 00:00:11,680
+I started out as a backend engineer and
+
+6
+00:00:11,680 --> 00:00:13,480
+have won several hats over the years. For
+
+7
+00:00:13,480 --> 00:00:15,680
+example, founder, principal engineer, as
+
+8
+00:00:15,680 --> 00:00:17,160
+well as engineering manager.
+
+9
+00:00:17,800 --> 00:00:18,160
+I
+
+10
+00:00:18,640 --> 00:00:21,560
+at core, I am a software engineer who
+
+11
+00:00:21,560 --> 00:00:22,880
+loves and build systems
+
+12
+00:00:23,200 --> 00:00:25,440
+which are fast, reliable and efficient.
+
+13
+00:00:26,080 --> 00:00:27,720
+Evidently, while building such complex
+
+14
+00:00:27,720 --> 00:00:29,480
+systems, I have also come across the
+
+15
+00:00:29,480 --> 00:00:30,400
+challenging issues
+
+16
+00:00:30,680 --> 00:00:32,680
+and resolve the same which usually tag
+
+17
+00:00:32,680 --> 00:00:33,120
+along with them.
+
+18
+00:00:33,600 --> 00:00:35,640
+For example, DB connection issues, GC
+
+19
+00:00:35,640 --> 00:00:38,280
+tuning, handling message brokers, etc.
+
+20
+00:00:38,680 --> 00:00:40,480
+Apart from building such complex systems
+
+21
+00:00:40,480 --> 00:00:42,080
+for the companies, I have also built
+
+22
+00:00:42,080 --> 00:00:44,240
+systems for the issues which I care
+
+23
+00:00:44,240 --> 00:00:44,720
+about.
+
+24
+00:00:45,000 --> 00:00:46,440
+For example, format flows.
+
+25
+00:00:46,720 --> 00:00:48,440
+It's a privacy first file conversion
+
+26
+00:00:48,440 --> 00:00:50,440
+application, hence the actual conversion
+
+27
+00:00:50,480 --> 00:00:51,560
+happens at the client side.
+
+28
+00:00:52,000 --> 00:00:53,800
+To ensure the UI is not impacted while
+
+29
+00:00:53,800 --> 00:00:56,080
+doing so, I have implemented web workers
+
+30
+00:00:56,200 --> 00:00:56,920
+through web assembly.
+
+31
+00:00:57,280 --> 00:00:59,280
+To also ensure the system is not impacted
+
+32
+00:00:59,280 --> 00:01:01,000
+while doing so even during the bulk
+
+33
+00:01:01,000 --> 00:01:01,680
+operations.
+
+34
+00:01:02,000 --> 00:01:04,480
+I have used and managed C level visa
+
+35
+00:01:04,480 --> 00:01:06,680
+memory and I have capped worker threads.
+
+36
+00:01:07,520 --> 00:01:09,000
+Apart from the backend engineering bit
+
+37
+00:01:09,000 --> 00:01:10,800
+which I just talked about, I have also
+
+38
+00:01:10,800 --> 00:01:12,520
+been an engineering manager and have
+
+39
+00:01:12,520 --> 00:01:14,800
+handled 16 plus developers at a time.
+
+40
+00:01:15,120 --> 00:01:16,520
+I designed the systems,
+
+41
+00:01:16,880 --> 00:01:18,200
+reviewed the code developed by the
+
+42
+00:01:18,200 --> 00:01:20,920
+engineers all while doing scrum on a
+
+43
+00:01:20,920 --> 00:01:21,680
+daily basis.
+
+44
+00:01:22,080 --> 00:01:24,600
+Apart from this, I have also been face of
+
+45
+00:01:24,600 --> 00:01:25,280
+engineering
+
+46
+00:01:25,600 --> 00:01:27,600
+for the functional folks internal to the
+
+47
+00:01:27,600 --> 00:01:29,120
+company as well as external.
+
+48
+00:01:29,960 --> 00:01:31,880
+going forward I am looking for my next
+
+49
+00:01:31,880 --> 00:01:34,400
+role as staff for principal engineer or
+
+50
+00:01:34,400 --> 00:01:36,000
+engineer engineering manager
+
+51
+00:01:36,440 --> 00:01:38,440
+where in I can own challenging systems.
+
+52
+00:01:38,640 --> 00:01:40,400
+So if you are building such ambitious
+
+53
+00:01:40,400 --> 00:01:41,000
+systems
+
+54
+00:01:41,440 --> 00:01:42,200
+please do reach out.
+
+55
+00:01:43,160 --> 00:01:44,960
+Thanks for your time and I hope you have
+
+56
+00:01:44,960 --> 00:01:45,800
+a great day ahead.
+
